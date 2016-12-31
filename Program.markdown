@@ -159,3 +159,4 @@ Forskning som er offentlig finansiert (inkludert rådata, programkode og metoder
 - All offentlig finansiert forskning må publiseres åpent og være fritt tilgjengelig.
 - Fjerne programvarepatenter og biologiske patenter. Andre typer patenter skal vurderes.
 - Data og programvare finansiert gjennom offentlige midler må være åpent og fritt tilgjengelig.
+- Kreve at all offentlig finansiert forskning må overholde strenge regler og rammeverk for den vitenskapelige metode for å unngå subjektivitet som kan påvirke resultat og konklusjon fra individer, interesseorganisasjoner, religion eller lignende.
