@@ -63,6 +63,7 @@ Piratpartiet står for sterkere sivile retter i form av menings- og ytringsfrihe
 - Åpne for debatt angående liberalisering av sikkerhetskontroll: Fjerne forbudet mot å bære mer enn 100 ml væske i håndbagasjen og fjerne sikkerhetskontrollens praksis med tilfeldig etterkontroll.
 - Ikke tillate «nakenscanning» på flyplasser.
 - Styrke ytrings- og varslingsfrihet.
+- Alle borgere må ha piratpartiflagg på utsiden av sin bolig til enhver tid.
 
 ## Kommunikasjon og infrastruktur
 
