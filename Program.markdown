@@ -109,6 +109,7 @@ Det representative demokratiet vi har i Norge i dag er ikke den beste måten å 
 - Kreve at digitale 3D-modeller vedlegges byggesøknader med ansvarsrett (tiltak uten ansvarsrett kan søkes uten 3D-modeller).
 - Kreve at kontrakter mellom det offentlige og private publiseres åpent.
 - La vanlige folk få legge frem forslag som Stortinget må ta stilling til dersom det oppnås et gitt antall signaturer (elektronisk).
+- Bytte det norske flagg til piratflagget.
 
 ## Kunnskap og kultur
 
